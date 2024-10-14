@@ -1,6 +1,6 @@
 #include "first_app.h"
 
-#include <cst>
+#include <cstdlib>
 
 int main() {
 	lve::first_app app();

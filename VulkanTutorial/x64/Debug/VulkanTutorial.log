@@ -1,2 +1,5 @@
-﻿  main.cpp
-  VulkanTutorial.vcxproj -> C:\Users\thrib\code\VulkanTutorial\x64\Debug\VulkanTutorial.exe
+﻿  first_app.cpp
+  lve_window.cpp
+  main.cpp
+  Generating Code...
+C:\Users\thrib\code\VulkanTutorial\main.cpp(9,7): error C2228: left of '.run' must have class/struct/union
