@@ -35,6 +35,9 @@
     <ClInclude Include="lve_pipeline.h" />
     <ClInclude Include="lve_window.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
