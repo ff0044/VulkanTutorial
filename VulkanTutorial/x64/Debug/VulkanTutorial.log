@@ -1,6 +1,2 @@
-﻿  first_app.cpp
-  lve_pipeline.cpp
-  lve_window.cpp
-  main.cpp
-  Generating Code...
+﻿  lve_pipeline.cpp
   VulkanTutorial.vcxproj -> C:\Users\thrib\code\VulkanTutorial\x64\Debug\VulkanTutorial.exe

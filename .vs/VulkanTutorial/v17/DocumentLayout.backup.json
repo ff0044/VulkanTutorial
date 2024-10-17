@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\thrib\\code\\VulkanTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_pipeline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\Shaders\\simpleVertexShader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:Shaders\\simpleVertexShader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:lve_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|solutionrelative:first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77915472-8350-4223-94BE-38F491EA2E4E}|VulkanTutorial.vcxproj|C:\\Users\\thrib\\code\\VulkanTutorial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,85 +62,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "lve_pipeline.cpp",
-              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.cpp",
-              "RelativeDocumentMoniker": "lve_pipeline.cpp",
-              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.cpp",
-              "RelativeToolTip": "lve_pipeline.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T02:52:38.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "lve_pipeline.h",
-              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.h",
-              "RelativeDocumentMoniker": "lve_pipeline.h",
-              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.h",
-              "RelativeToolTip": "lve_pipeline.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T11:39:03.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "first_app.cpp",
-              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.cpp",
-              "RelativeDocumentMoniker": "first_app.cpp",
-              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.cpp",
-              "RelativeToolTip": "first_app.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T10:59:26.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "first_app.h",
-              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.h",
-              "RelativeDocumentMoniker": "first_app.h",
-              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.h",
-              "RelativeToolTip": "first_app.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T09:02:27.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "lve_window.cpp",
-              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.cpp",
-              "RelativeDocumentMoniker": "lve_window.cpp",
-              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.cpp",
-              "RelativeToolTip": "lve_window.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T08:58:05.764Z",
+              "Title": "simpleVertexShader.vert",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\Shaders\\simpleVertexShader.vert",
+              "RelativeDocumentMoniker": "Shaders\\simpleVertexShader.vert",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\Shaders\\simpleVertexShader.vert",
+              "RelativeToolTip": "Shaders\\simpleVertexShader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T05:26:40.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "lve_window.h",
-              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.h",
-              "RelativeDocumentMoniker": "lve_window.h",
-              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.h",
-              "RelativeToolTip": "lve_window.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Title": "lve_pipeline.cpp",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.cpp",
+              "RelativeDocumentMoniker": "lve_pipeline.cpp",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.cpp*",
+              "RelativeToolTip": "lve_pipeline.cpp*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T23:04:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lve_pipeline.h",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.h",
+              "RelativeDocumentMoniker": "lve_pipeline.h",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_pipeline.h",
+              "RelativeToolTip": "lve_pipeline.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T08:55:07.719Z",
+              "WhenOpened": "2024-10-16T23:02:10.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "first_app.cpp",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.cpp",
+              "RelativeDocumentMoniker": "first_app.cpp",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.cpp",
+              "RelativeToolTip": "first_app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T21:37:52.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "first_app.h",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.h",
+              "RelativeDocumentMoniker": "first_app.h",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\first_app.h",
+              "RelativeToolTip": "first_app.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T21:33:56.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lve_window.cpp",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.cpp",
+              "RelativeDocumentMoniker": "lve_window.cpp",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.cpp",
+              "RelativeToolTip": "lve_window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T21:31:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lve_window.h",
+              "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.h",
+              "RelativeDocumentMoniker": "lve_window.h",
+              "ToolTip": "C:\\Users\\thrib\\code\\VulkanTutorial\\lve_window.h",
+              "RelativeToolTip": "lve_window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T21:29:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\thrib\\code\\VulkanTutorial\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -144,7 +160,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T08:53:54.522Z"
+              "WhenOpened": "2024-10-16T21:28:14.637Z"
             }
           ]
         }

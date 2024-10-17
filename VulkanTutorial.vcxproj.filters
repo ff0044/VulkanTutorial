@@ -11,50 +11,21 @@
     <Filter Include="Lve">
       <UniqueIdentifier>{7ba06f73-69f1-405a-95c5-1b18ea9e5bbf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Lve\Window">
-      <UniqueIdentifier>{5fc2c7e5-277b-4dd1-a2db-7bdb3f986f38}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Lve\Window\Graphics">
-      <UniqueIdentifier>{63dae28f-ef12-4479-bdf9-ee309872c767}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Lve\Window\Graphics\Pipeline">
-      <UniqueIdentifier>{1977cfca-fd10-4ee5-899e-f265da03f701}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Lve\App">
       <UniqueIdentifier>{1aae6234-218d-497a-bbc2-76e1c36054d2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Lve\Window\Graphics\Engine">
+    <Filter Include="Lve\Graphics">
+      <UniqueIdentifier>{63dae28f-ef12-4479-bdf9-ee309872c767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lve\Graphics\Pipeline">
+      <UniqueIdentifier>{1977cfca-fd10-4ee5-899e-f265da03f701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lve\Graphics\Engine">
       <UniqueIdentifier>{1d609a87-585e-422a-be1c-8a187a687ebf}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="first_app.cpp">
-      <Filter>Lve\App</Filter>
-    </ClCompile>
-    <ClCompile Include="lve_window.cpp">
-      <Filter>Lve\Window</Filter>
-    </ClCompile>
-    <ClCompile Include="lve_pipeline.cpp">
-      <Filter>Lve\Window\Graphics\Pipeline</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="lve_device.cpp">
-      <Filter>Lve\Window\Graphics\Engine</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="first_app.h">
-      <Filter>Lve\App</Filter>
-    </ClInclude>
-    <ClInclude Include="lve_window.h">
-      <Filter>Lve\Window</Filter>
-    </ClInclude>
-    <ClInclude Include="lve_pipeline.h">
-      <Filter>Lve\Window\Graphics\Pipeline</Filter>
-    </ClInclude>
-    <ClInclude Include="lve_device.hpp">
-      <Filter>Lve\Window\Graphics\Engine</Filter>
-    </ClInclude>
+    <Filter Include="Lve\Graphics\Window">
+      <UniqueIdentifier>{5fc2c7e5-277b-4dd1-a2db-7bdb3f986f38}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="Shaders\simpleFragmentShader.frag">
@@ -63,5 +34,36 @@
     <None Include="Shaders\simpleVertexShader.vert">
       <Filter>Shaders</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Lve\App</Filter>
+    </ClCompile>
+    <ClCompile Include="lve_window.cpp">
+      <Filter>Lve\Graphics\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="first_app.cpp">
+      <Filter>Lve\App</Filter>
+    </ClCompile>
+    <ClCompile Include="lve_pipeline.cpp">
+      <Filter>Lve\Graphics\Pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="lve_device.cpp">
+      <Filter>Lve\Graphics\Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lve_window.h">
+      <Filter>Lve\Graphics\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="first_app.h">
+      <Filter>Lve\App</Filter>
+    </ClInclude>
+    <ClInclude Include="lve_pipeline.h">
+      <Filter>Lve\Graphics\Pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="lve_device.hpp">
+      <Filter>Lve\Graphics\Engine</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
